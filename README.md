@@ -231,6 +231,7 @@ Lista 1
  */
  
  Lista 2
+ 
  const personagens = [
     {
        "type":"WARRIOR",
